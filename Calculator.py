@@ -1,6 +1,6 @@
 number1 = int(input("please enter first number" ))
 number2 = int(input("please enter second number "))
-process = input("1 for additional  \n 2 for subtraction \n 3 for multiplication \n 4 for division \n ")
+process = input("1 for addition  \n 2 for subtraction \n 3 for multiplication \n 4 for division \n ")
 
 
 
